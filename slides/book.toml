@@ -1,0 +1,6 @@
+[book]
+authors = ["lislis"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Simple intro to simple beats"
